@@ -11,7 +11,7 @@ class Footer extends Component {
         return (
             <footer className="footer fixed-bottom mt-auto py-3">
                 <div className="container">
-                    <span className="text-muted">Place sticky footer content here.</span>
+                    <span className="text-muted">Copyright &copy; Damilola Ogunsola, 2019</span>
                 </div>
             </footer>
         );
